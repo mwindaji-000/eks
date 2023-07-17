@@ -7,5 +7,6 @@
     - setup aws credentials and test: 
     - up date region, vpc_cidr, and user
     - terraform init, plan -out r1.0 , apply r1.0
+    - test
 
     
