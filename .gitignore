@@ -1,0 +1,7 @@
+**/.terraform/*
+./examples/eks_managed_node_group/.terraform
+.terraform
+.DS_Store
+.DocumentRevisions-V100
+.Spotlight-V100
+.Trashes
